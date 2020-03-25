@@ -4047,7 +4047,7 @@ textarea,
 	div#jp-relatedposts,
 	.comments-area,
 	.single .entry-content {
-		float: right;
+		float: left;
 	}
 
 	/* Posts & Pages */
