@@ -47,8 +47,8 @@
 
 <?php wp_footer(); ?>
 
-<script src="https://cdn.bootcss.com/vue/2.6.11/vue.min.js"></script>
-<script src="https://lab.magiconch.com/nbnhhsh/nbnhhsh.user.js"></script>
+<!--script src="https://cdn.bootcss.com/vue/2.6.11/vue.min.js"></script>
+<script src="https://lab.magiconch.com/nbnhhsh/nbnhhsh.user.js"></script-->
 
 </body>
 </html>
