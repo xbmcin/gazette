@@ -28,7 +28,7 @@
 					<?php
 						wp_nav_menu( array(
 							'theme_location'  => 'social',
-							'link_before'     => '<span class="screen-reader-text">',
+							'link_before'     => '<span class="social-navigation-text">',
 							'link_after'      => '</span>',
 							'depth'           => 1,
 						) );
